@@ -1,0 +1,18 @@
+.kasem{
+  margin-top: 10px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+.kasem:hover{
+  background-image: linear-gradient(to right, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  transition: 0.5ms;
+  cursor: pointer;
+}
+.uk-kasem{
+  width: 600px;
+  border-radius: 5px;
+}
+.btn, .bt-n{
+  font-weight: bold;
+}
